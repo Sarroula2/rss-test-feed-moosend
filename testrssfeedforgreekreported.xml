@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+
+  <channel>
+    <title>Colombia One: News from Colombia and the World</title>
+    <atom:link href="https://dev.colombiaone.com/feed/" rel="self" type="application/rss+xml" />
+    <link>https://dev.colombiaone.com/</link>
+    <description>Your source for news from Colombia and around the world.</description>
+    <lastBuildDate>Mon, 16 Sep 2024 11:01:06 +0000</lastBuildDate>
+    <language>en-US</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+
+    <image>
+      <url>https://dev.colombiaone.com/wp-content/uploads/2022/12/Co1ombia-one-1-favicon-2-150x150.png</url>
+      <title>Colombia One: News from Colombia and the World</title>
+      <link>https://dev.colombiaone.com/</link>
+      <width>32</width>
+      <height>32</height>
+    </image>
+
+    <item>
+      <title>Colombia Suspends Ceasefire with &#8216;Ivan Mordisco&#8217; FARC Dissidents</title>
+      <link>https://dev.colombiaone.com/2024/07/16/colombia-farc-dissidents-ceasefire/</link>
+      <dc:creator><![CDATA[Angie Rodriguez]]></dc:creator>
+      <pubDate>Tue, 16 Jul 2024 18:34:49 +0000</pubDate>
+      <category><![CDATA[Colombia news]]></category>
+      <category><![CDATA[Politics]]></category>
+      <category><![CDATA[ceasefire]]></category>
+      <category><![CDATA[ceasefire extends]]></category>
+      <category><![CDATA[Central General Staff FARC]]></category>
+      <category><![CDATA[Colombia]]></category>
+      <category><![CDATA[EMC]]></category>
+      <category><![CDATA[FARC Central General Staff]]></category>
+      <category><![CDATA[FARC dissidences]]></category>
+      <category><![CDATA[Gustavo Petro]]></category>
+      <guid isPermaLink="false">https://dev.colombiaone.com/?p=49623</guid>
+      <description><![CDATA[
+        <div>
+          <img width="696" height="522" src="https://dev.colombiaone.com/wp-content/uploads/2024/07/COLOMBIAN-MINISTRY-OF-DENSE-CREDIT-MINISTRY-OF-DEFENSE-PUBLIC-DOMAIN-1024x768.jpeg" alt="" style="margin-bottom: 14px;" decoding="async" />
+        </div>
+      ]]></description>
+      <content:encoded><![CDATA[
+        <figure>
+          <img decoding="async" width="1024" height="768" src="https://dev.colombiaone.com/wp-content/uploads/2024/07/COLOMBIAN-MINISTRY-OF-DENSE-CREDIT-MINISTRY-OF-DEFENSE-PUBLIC-DOMAIN-1024x768.jpeg" alt="The Colombian Minister of Defense, Ivan Marquez, suspended the ceasefire with the FARC dissidents led by ‘Ivan Mordisco’." />
+          <figcaption>The Colombian Minister of Defense, Ivan Marquez, has suspended the ceasefire with the FARC dissidents led by ‘Ivan Mordisco’. Credit: <a href="https://x.com/mindefensa/status/1813190318646243620/photo/1">Colombia Ministry of Defense</a>, public domain.</figcaption>
+        </figure>
+        <p>The Colombian government, under President Gustavo Petro, has suspended its ceasefire with the FARC dissidents led by ‘Ivan Mordisco’...</p>
+      ]]></content:encoded>
+    </item>
+
+  </channel>
+</rss>
